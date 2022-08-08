@@ -1,6 +1,6 @@
 import { UilUser, UilMapMarker, UilServerAlt } from "@iconscout/react-unicons";
 
-const Section2 = () => {
+const IconsBar = () => {
   return (
     <div className="container max-w-6xl mx-auto">
       {/* section icons */}
@@ -44,4 +44,4 @@ const Section2 = () => {
   );
 };
 
-export default Section2;
+export default IconsBar;

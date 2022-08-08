@@ -1,15 +1,15 @@
 import Navbar from "./components/Navbar";
-import Section1 from "./components/Section1";
-import Section2 from "./components/Section2";
-import Section3 from "./components/Section3";
+import Banner from "./components/Banner";
+import IconsBar from "./components/IconsBar";
+import Benefit from "./components/Benefit";
 
 const App = () => {
   return (
     <div className="App">
       <Navbar />
-      <Section1 />
-      <Section2 />
-      <Section3 />
+      <Banner />
+      <IconsBar />
+      <Benefit />
     </div>
   );
 }

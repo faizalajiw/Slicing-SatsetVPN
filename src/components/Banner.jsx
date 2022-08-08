@@ -1,6 +1,6 @@
 import Illustration1 from "../assets/Illustration1.png";
 
-const Section1 = () => {
+const Banner = () => {
   return (
     <div className="container max-w-6xl mx-auto">
       {/* banner */}
@@ -33,4 +33,4 @@ const Section1 = () => {
   );
 };
 
-export default Section1;
+export default Banner;

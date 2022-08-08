@@ -1,7 +1,7 @@
 import Illustration2 from "../assets/Illustration2.png";
 import { UisCheckCircle } from "@iconscout/react-unicons-solid";
 
-const Section3 = () => {
+const Benefit = () => {
   const features = [
     "Powerfull online protection.",
     "Internet without borders.",
@@ -42,4 +42,4 @@ const Section3 = () => {
   );
 };
 
-export default Section3;
+export default Benefit;
